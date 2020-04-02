@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/profilePic"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        app:showAsAction="ifRoom"
+        android:title="profile"/>
+    <item
+        android:id="@+id/settings"
+        app:showAsAction="never"
+        android:title="Settings"/>
+
+    <item
+        android:id="@+id/news"
+        app:showAsAction="never"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/temperature"
+        app:showAsAction="never"
+        android:title="Record Temperature"/>
+
+    <item
+        android:id="@+id/travel"
+        app:showAsAction="never"
+        android:title="Declare Travel Plans"/>
+</menu>

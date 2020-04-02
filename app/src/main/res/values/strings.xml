@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MOH bleghhh</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <!-->login/sign up/settings screen<-->
+    <string name="IDPrompt">Enter Student ID \n(Enter NRIC if staff)</string>
+    <string name="PasswordPrompt">Enter Password</string>
+    <string name="newPasswordPrompt">Enter New Password</string>
+    <string name="NamePrompt">Enter Name</string>
+    <string name="MentorGroupPrompt">Enter Mentor Group \n(Enter null if staff)</string>
+
+    <!-->Travel declaration<-->
+    <string name="ddmmyyyy">DD/MM/YYYY</string>
+    <string name="toCountry">Enter destination in City, Country format</string>
+
+    <!-->websites to visit for accurate stuff<-->
+    <string name="websites">
+        1. https://www.moh.gov.sg/covid-19
+        \n\n2. https://travel.state.gov/content/travel/en/traveladvisories/ea/novel-coronavirus-hubei-province--china.html
+        \n\n3. https://www.stb.gov.sg/content/stb/en/home-pages/advisory-on-covid-19.html
+        \n\n4. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen
+        \n\n5. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public
+        \n\n6. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/
+        \n\n7. https://www.who.int/csr/don/archive/disease/novel_coronavirus/en/
+    </string>
+</resources>
